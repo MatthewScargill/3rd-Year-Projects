@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import random as rd
-
 import pandas as pd 
 
 def FuelComp(M):
